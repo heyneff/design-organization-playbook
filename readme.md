@@ -1,4 +1,4 @@
-# Design across the commpany
+# Design across the company
 ## Design office hours
 It's important for the Design team to feel accessible and supportive of EPD/R&D/etc. as well as the broader organization. I typically hold a balance of personal office hours and Design team office hours to support the braod spectrum of needs across the company.
 # Design as a part of DPE/EPD/R&D/etc.
