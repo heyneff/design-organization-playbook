@@ -5,20 +5,6 @@ It's important for the Design team to feel accessible and supportive of EPD/R&D/
 ## Design/PM/Eng ratios
 ## Research
 ## Growth
-### 1:1s
-1:1s are the most important thing I invest in for current team members. My brief perspective on 1:1s:
-#### 1:1s are for professional growth, not project checkin time
-Unless you really need to use the time to get feedback, let's keep project check-in, feedback, or critique in other meetings. I like to protect 1:1s for growth and workign through current challenges that aren't project work.
-#### I don't move 1:1s
-Unless a designer needs to move out 1:1, I do everything I can to protect that time. I see it as the designer's time, not mine.
-#### You lead the agenda: I expect designers to come prepared for their 1:1s just like any other meeting
-While we likely have follow-ups from our last 1:1, I expect you to bring new topics for us to discuss.
-* What is blocking you?
-* How can you take the next step toward one of your goals?
-### Team growth: Recruiting is a team sport
-Outside supporting the team, grwoing the team is frequently my top priority. As in many leadership roles: I am only as good as my team. WE should approach growing the team together: Who do you know who might be a good fit? What motivates them? How 
-## Communication
-As a team we must be transparent and proactive in our communication, within our team, our group, and the company. I would take this one step further and say that we should consider the audience outside our walls and communicate what makes working on our team, in our group, and in our comapny great, and unique.
 ### Meetings
 Meetings should have a calendar invite and an agenda.
 #### Calendar invite
@@ -38,3 +24,31 @@ Follow these guidelines to set your meeting up for success:
 ##### Pre-read materials
 * These aren't always necessary, but think about the context of your invitees and share the right information to allow the to be optimally prepared for your time together
 * Presentations, design files, or other informative materials should be sent at least 24 hours in advance and attached or linked in the calendar invite
+### Design critique
+A weekly recurring meeting that provides space for you to get feedback on your work from the design team. This should be work in all stages and shouldn't skew toward visual work.
+#### Presenters
+Context is critical in prompting your audince for good feedback. Always include the following when presnting work for feedback.
+* Business problem
+* Scope (time, participants, budget, etc.)
+* Where this work is in the design process
+* What you want feedback on. What you don't want feedback on.
+* The reasoning behind your design decisions
+e.g. Today I'm presenting work around the problem of creating a new document. We've done user research but are still synthesizing it. These are wireframes based on internal feedback and expereiences around documetn creation. I'm lookign for broad feedback because this work is early, but I'd specifically like folks to push on the permissioning part of the process. It's unlike our previous model and I want to be sure it's well thought through before I move into more high fidelity design.
+#### Critics
+* Criticism scoped to the context provided
+* Mindful of who has spoken
+### Business review
+### 1:1s
+1:1s are the most important thing I invest in for current team members. My brief perspective on 1:1s:
+#### 1:1s are for professional growth, not project check-in time
+Unless you really need to use the time to get feedback, let's keep project check-in, feedback, or critique in other meetings. I like to protect 1:1s for growth and workign through current challenges that aren't project work.
+#### I don't move 1:1s
+Unless a designer needs to move out 1:1, I do everything I can to protect that time. I see it as the designer's time, not mine.
+#### You lead the agenda: I expect designers to come prepared for their 1:1s just like any other meeting
+While we likely have follow-ups from our last 1:1, I expect you to bring new topics for us to discuss.
+* What is blocking you?
+* How can you take the next step toward one of your goals?
+### Team growth: Recruiting is a team sport
+Outside supporting the team, grwoing the team is frequently my top priority. As in many leadership roles: I am only as good as my team. WE should approach growing the team together: Who do you know who might be a good fit? What motivates them? How 
+## Communication
+As a team we must be transparent and proactive in our communication, within our team, our group, and the company. I would take this one step further and say that we should consider the audience outside our walls and communicate what makes working on our team, in our group, and in our comapny great, and unique.
